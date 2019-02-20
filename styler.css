@@ -1,0 +1,12 @@
+.images {
+    display: block;
+} #upper {
+    height: 350px;
+    font-size: 0;
+} #lower {
+    height: 75px;
+    font-size: 0; }
+
+.brand {
+    background-color: aquamarine;
+}
