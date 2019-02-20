@@ -1,1 +1,1 @@
- program thaat removes white margin
+ program that removes white margin
